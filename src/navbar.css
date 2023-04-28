@@ -1,0 +1,17 @@
+/* .navbar{
+    display: flex;
+    flex-direction: row;
+} */
+
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+li{
+   
+    list-style-type: none;
+}
+.active{
+    color: aqua;
+}
